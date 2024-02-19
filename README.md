@@ -7,7 +7,7 @@ This project simulates a nematode (worm) navigating a grid to find food using gr
 - **Simulation Environment**: Simulates a grid where a worm navigates to find food pellets.
 - **Heuristic Controller**: Determines the worm's move based on the highest local gradient, simulating chemotaxis.
 - **Worm Environment Manager**: Manages grid, worm, and food pellets, including their positions and updating the environment.
-- **Neural Network Controller**: Uses generated training data to learn optimal movement strategies through supervised learning.
+- **Neural Network Controller**: Uses supervised learning as well as unsupervised learning to train the network.
 
 ## Visuals
 ![](worm.gif)
